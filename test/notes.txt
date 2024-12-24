@@ -1,0 +1,8 @@
+immagine a sinistra -> generata AI
+immagine a destra   -> blender + cel shading + poco/niente texturing
+
+--------------------------------------------
+
+l'immagine a destra circa vorrebbe essere production-ready (dettaglio piu, dettaglio meno).
+se come stile va bene, provo a fare la succubus cosi.
+ho fatto la pecora perche nel tutorial che ho seguito facevano quella.
